@@ -1,3 +1,11 @@
+---
+title: Je eerste klanten binnenhalen: een no-nonsense aanpak voor online én offline bedrijven
+slug: je_eerste_klanten_binnenhalen
+description: Je hebt een product of dienst waar je in gelooft. Je website staat live, je visitekaartjes zijn gedrukt, of allebei. Maar dan komt de vraag die elke ondernemer wakker houdt: hoe haal ik mijn eerste klanten binnen?
+publishedAt: 2026-11-09
+image: /puzzels.png
+status: published
+---
 # Je eerste klanten binnenhalen: een no-nonsense aanpak voor online én offline bedrijven
 
 Je hebt een product of dienst waar je in gelooft. Je website staat live, je visitekaartjes zijn gedrukt, of allebei. Maar dan komt de vraag die elke ondernemer wakker houdt: **hoe haal ik mijn eerste klanten binnen?**
