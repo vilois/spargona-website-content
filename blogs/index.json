@@ -16,6 +16,12 @@
     "title": "Werken e-mailcampagnes nog? En hoe schrijf je een e-mail die wél gelezen wordt?",
     "description": "Het is een vraag die regelmatig opduikt in marketingteams: heeft het nog zin om e-mails te sturen? Inboxen puilen uit, spamfilters worden strenger en de gemiddelde professional scant zijn mail in seconden.",
     "image": "/email.png"
-  }
+  },
+  {
+    "slug": "trial_gebruikers_activeren",
+    "title": "Trial-gebruikers activeren: meer kanalen dan je denkt",
+    "description": "Je hebt een trial-aanmelding binnen. Mooi. Maar dan begint het pas. Want een aanmelding zonder activatie is geen klant het is een gemiste kans. De meeste SaaS-teams grijpen dan naar twee reflexen: een e-mailreeks en misschien een LinkedIn-berichtje. ",
+    "image": "/man.png"
+  },
 
 ]
